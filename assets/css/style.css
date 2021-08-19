@@ -503,7 +503,7 @@ section {
   color: #3c1d50;
 
 
-  background-image: linear-gradient(45deg, #1900ff, #eeff00, #ff0000, #9900ff, #ff7300, #15ff00);
+  background-image: linear-gradient(45deg, #eeff00, #1900ff,  #ff0000, #9900ff, #ff7300, #15ff00);
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
